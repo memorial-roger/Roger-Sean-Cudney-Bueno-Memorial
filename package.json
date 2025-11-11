@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://SmitSatasiya.github.io/Roger-Sean-Cudney-Bueno-memorial/",
+  "homepage": "https://memorial-roger.github.io/Roger-Sean-Cudney-Bueno-Memorial/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

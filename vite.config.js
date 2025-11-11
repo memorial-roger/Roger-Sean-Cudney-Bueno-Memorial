@@ -1,8 +1,7 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/Roger-Sean-Cudney-Bueno-memorial/",
+  base: "/Roger-Sean-Cudney-Bueno-Memorial/", 
 });
