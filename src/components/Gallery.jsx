@@ -70,7 +70,7 @@ const Gallery = () => {
         >
           memorial.rogersean@gmail.com
         </a>
-        . Your shared memories help keep Roger’s spirit alive.
+        . Your shared memories help keep Roger’s spirit alive.   
       </p>
 
       {/* Image Grid */}
