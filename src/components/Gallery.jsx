@@ -63,7 +63,7 @@ const Gallery = () => {
     <div className="w-full bg-white py-10 text-center">
       <h2 className="text-2xl font-semibold mb-1">Gallery</h2>
       <p className="mb-8 text-gray-700 italic max-w-[700px] mx-auto px-4">
-        To contribute photos to this memorial gallery, kindly email them to:
+        To contribute photos to this memorial gallery, kindly email them to: xxx
         <a
           href="mailto:memorial.rogersean@gmail.com"
           className="text-blue-600 underline hover:text-blue-800 ml-1"
