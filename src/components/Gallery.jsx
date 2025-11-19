@@ -5,11 +5,11 @@ import photo3 from "../assets/3.jpg";
 import photo4 from "../assets/4.jpg";
 import photo5 from "../assets/5.jpg";
 import photo6 from "../assets/6.jpeg";
-import photo7 from "../assets/7.jpeg";
-import photo8 from "../assets/8.jpeg";
-import photo9 from "../assets/9.jpeg";
-import photo10 from "../assets/10.jpeg";
-import photo11 from "../assets/11.jpeg";
+import photo7 from "../assets/7.jpg";
+import photo8 from "../assets/8.png";
+import photo9 from "../assets/9.png";
+import photo10 from "../assets/10.png";
+import photo11 from "../assets/11.jpg";
 
 const images = [
   photo1,
