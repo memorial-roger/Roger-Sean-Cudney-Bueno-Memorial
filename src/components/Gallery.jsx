@@ -10,6 +10,11 @@ import photo8 from "../assets/8.jpg";
 import photo9 from "../assets/9.jpg";
 import photo10 from "../assets/10.jpg";
 import photo11 from "../assets/11.jpg";
+import photo11 from "../assets/12.jpg";
+import photo11 from "../assets/13.jpg";
+import photo11 from "../assets/14.jpg";
+import photo11 from "../assets/15.jpg";
+import photo11 from "../assets/16.jpg";
 
 const images = [
   photo1,
@@ -23,6 +28,11 @@ const images = [
   photo9,
   photo10,
   photo11,
+  photo12,
+  photo13,
+  photo14,
+  photo15,
+  photo16,
 ];
 
 const Gallery = () => {
